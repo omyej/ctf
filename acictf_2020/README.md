@@ -4,7 +4,7 @@ Thanks to [eesantiago](https://github.com/eesantiago) for the base formatting of
 
 # All-Army CyberStakes 4: 24 April - 03 May 2020
 
-For other writeups, referennce:
+For other writeups, reference:
 *	[welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes)
 *	[archang31](https://github.com/archang31/aacs4-writeups)
 *	[flakjacket95](https://github.com/flakjacket95/cyberstakes_2020)
