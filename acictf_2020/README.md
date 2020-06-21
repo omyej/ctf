@@ -20,7 +20,7 @@ For other writeups, reference:
 | Tutorial | [More Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/More_Out_of_Site) | [Really Senseless Admins](https://github.com/omyej/ctf/tree/master/acictf_2020/Really_Senseless_Admins) | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | [Over Time: Paid](https://github.com/omyej/ctf/tree/master/acictf_2020/Over_Time_Paid) | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [Let Me INNNNNN](https://github.com/omyej/ctf/tree/master/acictf_2020/Let_Me_INNNNNN) | [Speak Plainly](https://github.com/omyej/ctf/tree/master/acictf_2020/Speak_Plainly) | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [No Escape](https://github.com/omyej/ctf/tree/master/acictf_2020/No_Escape) | [Headpiece Silver](https://github.com/omyej/ctf/tree/master/acictf_2020/Headpiec_Silver) | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [No Escape](https://github.com/omyej/ctf/tree/master/acictf_2020/No_Escape) | [Headpiece Silver](https://github.com/omyej/ctf/tree/master/acictf_2020/Headpiece_Silver) | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [DENIED](https://github.com/omyej/ctf/tree/master/acictf_2020/DENIED) | [We're Related] | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [Blame it on the Temp] | [Pigeon Holes] | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [The SQL Always Sucks](https://github.com/omyej/ctf/tree/master/acictf_2020/The_SQL_Always_Sucks) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
