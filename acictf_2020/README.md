@@ -14,6 +14,9 @@ For other writeups, reference:
 
 <br /> 
 
-| Tutorial | Forensics | Miscellaneous | Web Security | Reverse Engineering |
-| ---------| --------- | ------------- | ------------ | ------------------- |
-| [InterNet Cats](https://github.com/omyej/ctf/tree/master/acictf_2020/InterNet_Cats) | item 2 | item3 | item4 | item5 |
+| Tutorial | Web Security | Cryptography | Forensics | Binary Exploitation | Reverse Engineering | Miscellaneous |
+| ---------| ------------ | ------------ | --------- | ------------------- | ------------------- | ------------- |
+| [InterNet Cats](https://github.com/omyej/ctf/tree/master/acictf_2020/InterNet_Cats) | [Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Out_of_Site) | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
+| [Tutorial]() | [More Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/More_Out_of_Site) | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
+| [Tutorial]() | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
+| [Tutorial]() | [Web]() | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
