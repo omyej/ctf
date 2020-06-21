@@ -16,7 +16,11 @@ For other writeups, reference:
 
 | Tutorial | Web Security | Cryptography | Forensics | Binary Exploitation | Reverse Engineering | Miscellaneous |
 | ---------| ------------ | ------------ | --------- | ------------------- | ------------------- | ------------- |
-| [InterNet Cats](https://github.com/omyej/ctf/tree/master/acictf_2020/InterNet_Cats) | [Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Out_of_Site) | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
-| [Tutorial]() | [More Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/More_Out_of_Site) | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
-| [Tutorial]() | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
-| [Tutorial]() | [Web]() | [Cryptography]() | [Forensics]() | [Binary]]() | [Reversing]() | [Miscellaneous]() |
+| [InterNet Cats](https://github.com/omyej/ctf/tree/master/acictf_2020/InterNet_Cats) | [Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [More Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/More_Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [Let Me INNNNNN](https://github.com/omyej/ctf/tree/master/acictf_2020/Let_Me_INNNNNN) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+
