@@ -16,14 +16,14 @@ For other writeups, reference:
 
 | Tutorial | Web Security | Cryptography | Forensics | Binary Exploitation | Reverse Engineering | Miscellaneous |
 | ---------| ------------ | ------------ | --------- | ------------------- | ------------------- | ------------- |
-| [InterNet Cats](https://github.com/omyej/ctf/tree/master/acictf_2020/InterNet_Cats) | [Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| [InterNet Cats](https://github.com/omyej/ctf/tree/master/acictf_2020/InterNet_Cats) | [Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Out_of_Site) | [Rotate Me](https://github.com/omyej/ctf/tree/master/acictf_2020/Rotate_Me) | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [More Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/More_Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [Let Me INNNNNN](https://github.com/omyej/ctf/tree/master/acictf_2020/Let_Me_INNNNNN) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [No Escape](https://github.com/omyej/ctf/tree/master/acictf_2020/No_Escape) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [DENIED](https://github.com/omyej/ctf/tree/master/acictf_2020/DENIED) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | [Really Sensless Admins](https://github.com/omyej/ctf/tree/master/acictf_2020/Really_Sensless_Admins) | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [Let Me INNNNNN](https://github.com/omyej/ctf/tree/master/acictf_2020/Let_Me_INNNNNN) | [Over Time: Paid](https://github.com/omyej/ctf/tree/master/acictf_2020/Over_Time_Paid) | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [No Escape](https://github.com/omyej/ctf/tree/master/acictf_2020/No_Escape) | [Speak Plainly](https://github.com/omyej/ctf/tree/master/acictf_2020/Speak_Plainly) | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [DENIED](https://github.com/omyej/ctf/tree/master/acictf_2020/DENIED) | [Headpiece Silver](https://github.com/omyej/ctf/tree/master/acictf_2020/Headpiec_Silver) | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | Blame it on the Temp | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [The SQL Always Sucks](https://github.com/omyej/ctf/tree/master/acictf_2020/The_SQL_Always_Sucks) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | [Cookie Monster](https://github.com/omyej/ctf/tree/master/acictf_2020/Cookie_Monster) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [The SQL Always Sucks](https://github.com/omyej/ctf/tree/master/acictf_2020/The_SQL_Always_Sucks) | [We're Related] | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [Cookie Monster](https://github.com/omyej/ctf/tree/master/acictf_2020/Cookie_Monster) | [Pigeon Holes] | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [I Have Caught You Now](https://github.com/omyej/ctf/tree/master/acictf_2020/I_Have_Caught_You_Now) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
