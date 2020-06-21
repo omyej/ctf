@@ -20,7 +20,10 @@ For other writeups, reference:
 | Tutorial | [More Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/More_Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [Most Out of Site](https://github.com/omyej/ctf/tree/master/acictf_2020/Most_Out_of_Site) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | [Let Me INNNNNN](https://github.com/omyej/ctf/tree/master/acictf_2020/Let_Me_INNNNNN) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [No Escape](https://github.com/omyej/ctf/tree/master/acictf_2020/No_Escape) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [DENIED](https://github.com/omyej/ctf/tree/master/acictf_2020/DENIED) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | Blame it on the Temp | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [The SQL Always Sucks](https://github.com/omyej/ctf/tree/master/acictf_2020/The_SQL_Always_Sucks) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [Cookie Monster](https://github.com/omyej/ctf/tree/master/acictf_2020/Cookie_Monster) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
+| Tutorial | [I Have Caught You Now](https://github.com/omyej/ctf/tree/master/acictf_2020/I_Have_Caught_You_Now) | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
 | Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-| Tutorial | Web | Cryptography | Forensics | Binary | Reversing | Miscellaneous |
-
