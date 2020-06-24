@@ -23,13 +23,34 @@
 * The original check in gatekeeper just needs to have 3 equal parameters to pass
 * I know some of the static values based on params being passed.  Simplify the obfuscated code by filling in constants
 * Create a python script to iterate through remaining math:
-    * ![solution2](./LibraryCard2.png)
-    * Prints the decimals: 3575357
-    * In hex, this would be: 03050705030507
-    * Reverse the byte order and change to ascii
-        * pP0PpP0
-        * Didn't work like I thought
+```
+#!/usr/bin/python3
+
+lenZstr = 8
+i = 0
+flag=""
+
+while (i < lenZstr):
+    flag = flag + str(((-90+i)^(i*-2200)^(i-1357)) % 8)
+    i = i + 1
+print(flag)
+```
+* Prints the decimals: 3575357
+* In hex, this would be: 03050705030507
+* Reverse the byte order and change to ascii
+    * pP0PpP0
+    * Didn't work like I thought
 * Should have just created a program to link to the library:
-* ![solution3](./LibraryCard3.png)
-* ![solution3](./LibraryCard3.png)
+```
+#!/usr/bin/python3
+
+
+import ctypes
+
+# libc = ctypes.cdll.msvcrt # Windows
+# libc = ctypes.CDLL('libc.dylib') # Mac
+libc = ctypes.CDLL('./liblibrary_card.so') # Linux and most other *nix
+libc.gatekeeper84(1,1,1)
+```
+* ![solution4](./LibraryCard4.png)
 * ACI{oZsEsZb7bWpEpibir7r7}
